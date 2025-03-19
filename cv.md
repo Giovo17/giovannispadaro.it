@@ -7,7 +7,6 @@ jsarr:
 ---
 <h1 id="cv-title"><a href="{{ site.url }}">Giovanni Spadaro</a></h1>
 
-
 <p id="cv-subtitle"><i>Data Science master student</i></p>
 
 <div class="cv-spacer"></div>
@@ -29,7 +28,7 @@ jsarr:
 	</div>
 </div>
 
-***
+---
 
 ## Education
 
@@ -39,7 +38,6 @@ jsarr:
 {% endfor %}
 {:/}
 
-
 ## Academic Research Experience
 
 {% for experience in site.data.experiences %}
@@ -47,7 +45,6 @@ jsarr:
 {% include cv/experience.html experience=experience %}
 {% endif %}
 {% endfor %}
-
 
 ## Industrial Experience
 
@@ -57,7 +54,6 @@ jsarr:
 {% endif %}
 {% endfor %}
 
-
 ## Teaching Experience
 
 {% for experience in site.data.experiences %}
@@ -66,8 +62,7 @@ jsarr:
 {% endif %}
 {% endfor %}
 
-
-## Voluunteering
+## Volunteering
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'volunteering' %}
@@ -75,21 +70,14 @@ jsarr:
 {% endif %}
 {% endfor %}
 
-
 ## Courses, Hackathons, Certificates and others
 
 {% for cc in site.data.courses_certificates %}
 {% include cv/courses_certificates.html cc=cc %}
 {% endfor %}
 
-
 I authorize the processing of the personal data contained in my curriculum vitae in accordance with Article 13 of Legislative Decree 196/2003 and Article 13 of EU Regulation 2016/679 on the protection of individuals with regard to the processing of personal data.
-
-
 
 [cv]: {{ site.url }}/files/cv.pdf "My CV."
 
-[github]: https:/www.github.com/Giovo17 "github.com/Giovo17"
-
-
-
+[github]: https:/www.github.com/Giovo17
