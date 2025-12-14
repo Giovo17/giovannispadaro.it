@@ -1,0 +1,48 @@
+- institution: University of Catania
+  location: "Catania, IT"
+  position: Research assistant
+  year: Feb - May 2023
+  supervisors:
+    - Prof. Francesco Beritelli
+    - Ing. Michele Russo
+  description: "Study and implementation of SOTA GAN based architectures for anomaly detection in industrial multivariate time-series datasets.
+  Training and evaluation of such models in order to provide a baseline aimed at predictive maintenance and early machineries fault detection.
+  Technologies: GANs, LSTMs, PyTorch, Scikit-learn."
+  institution-url: https://unict.it
+  type: research_academic
+
+
+- institution: Silk Shells Consulting
+  location: "Remote"
+  position: Data Scientist
+  year: Jun - Jul 2024
+  description: "Designed and implemented a multiclass classification system to evaluate candidate profiles, leveraging advanced feature engineering across both structured datasets and unstructured text sources.
+Built an interactive Gradio web application to demonstrate the system’s prototype and support rapid model validation and overall feedbacks.
+Deployed a scalable, production-grade inference infrastructure on AWS, ensuring reliable model serving and smooth integration with existing business workflows.
+
+Technologies and Services: AWS (mainly SageMaker, Lambda), Google Cloud, PostgreSQL, Pandas, Scikit-learn, XGBoost, OpenAI APIs, HuggingFace Spaces, Git."
+  type: industry
+
+
+- institution: Superprof
+  location: "Remote - Catania, IT"
+  position: Private Professor
+  year: "Sep 2022 -"
+  year-extra: "Present"
+  description: "Private lessons of Mathematics, Physics, Computer Science, Electrotechnics, Machine Learning, Natural Language Processing and Computer Vision for MSc, BSc and high school students. Make students grow academically and get them excited about scientific subjects."
+  profile_page: https://www.superprof.it/dottore-ingegneria-informatica-offre-lezioni-private-machine-learning-natural-language-processing-computer-vision-materie.html"
+  type: teaching
+
+
+- institution: UNICT FSC
+  location: "Catania, IT"
+  position: Automotive software engineer
+  year: "Nov 2024 -"
+  year-extra: "Present"
+  description: "I'm part of the Low Voltage division of the Catania team taking that should take part in the Formula SAE competiton.
+My role since now has been to manage the workflow of the Low and High Voltage divisions and taking part to the R&D of a communication system based on the CAN-bus protocol."
+  institution-url: https://www.fscracing.it/
+  type: volunteering
+
+
+

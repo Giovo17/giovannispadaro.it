@@ -1,0 +1,34 @@
+<div class="cv-left-date">{{ cc.year }} {{ cc.year-extra }}</div>
+<div><a href="{{ cc.institution-url }}"><b>{{ cc.institution }}</b></a>, {{ cc.location }}</div>
+<div><i>{{ cc.title }} <a href="{{ cc.group-url }}">{{ cc.group }}</a></i></div>
+<div class="cv-description">
+	{{ cc.description }}
+</div>
+<div class="pub-misc">
+	{% if cc.certificate %}
+		<a href="{{ cc.certificate }}">
+			<i class="fas fa-file-pdf" aria-hidden="true"></i> Certificate
+		</a>
+	{% endif %}
+
+	{% if cc.register %}
+		<a href="{{ cc.register }}">
+			<i class="fas fa-link" aria-hidden="true"></i> Register
+		</a>
+	{% endif %}
+
+	{% if cc.project_pitch %}
+		<a href="{{ cc.project_pitch }}">
+			<i class="fas fa-link" aria-hidden="true"></i> Project pitch
+		</a>
+	{% endif %}
+
+	{% if cc.repo %}
+		<a href="{{ cc.repo }}">
+			<i class="fas fa-link" aria-hidden="true"></i> Repository
+		</a>
+	{% endif %}
+
+</div>
+
+<div class="cv-spacer"></div>

@@ -1,0 +1,8 @@
+/* TEAM */
+	Author: Giovanni Spadaro
+	Location: Catania, Italy
+
+/* SITE */
+    Language: English
+	Standards: HTML5, CSS3
+	Software: Jekyll

@@ -1,0 +1,52 @@
+- institution: University of Catania, IBM
+  location: "Catania, IT"
+  year: Nov 2024
+  title: "Qiskit Fall Fest Catania 2024"
+  description: Series of seminars about Basics of Quantum Mechanics, Quantum Computing and Qiskit framework. Solving 3 sets of challenges using Qiskit.
+  certificate: ../files/QiskitFallFestCatania2024_WinningAchievements.pdf
+  repo: https://github.com/Giovo17/qff-catania-2024
+
+- institution: University of Catania
+  location: "Catania, IT"
+  year: Oct - Dec 2023
+  title: "How to build and use a Big Data Platform on the AWS Cloud"
+  description: Understand the basics of cloud computing and modern data architectures and learn about the main AWS technologies for creating and managing Data Storage, Data Processing and Data Analysis steps.
+  certificate: ../files/How_to_build_and_use_a_Big_Data_Platform_on_the_AWS_Cloud.pdf
+
+- institution: Wylab
+  location: "Remote - Chiavari, IT"
+  year: Apr - Jul 2023
+  title: "Volley Data Analyst"
+  description: Match analysis, opposition scouting e talent scouting from Volleyball scout datasets.
+  institution-url: https://wylab.net/
+  certificate: ../files/Attestato_VDA_2023.pdf
+  register: https://wylab.net/volley-data-analyst-albo/
+
+- institution: University of Catania, Samsung Italy
+  location: "Catania, IT"
+  year: Jan - May 2023
+  title: "Samsung Innovation Campus"
+  description: "Series of lessons about Machine Learning, Deep Learning, IoT and Cyber Security from UNICT professors and Samsung experts.
+  Development of an innovative group project: Hexagarden, an intelligent home wall garden."
+  institution-url: https://www.samsung.com/it/campaign/innovation-campus/
+  certificate: ../files/SamsungInnovationCampus2023.pdf
+  project_pitch: ../files/pitch_hexagarden.pdf
+
+- institution: Opinno
+  location: "Catania, IT"
+  year: Mar 2023
+  title: "Cloud Practitioner Essentials"
+  description: Introduction to the AWS platform.
+  certificate: ../files/Cloud_Practitioner_Essential_Attestato_Spadaro_Giovanni.pdf
+
+- institution: Var Group
+  location: "Riccione, IT"
+  year: May 2019
+  title: "MasterTech Hackathon 2019"
+  description: Solve a business problem related to the supermarket checkout queue forecast in 32 hours using Machine Learning techniques.
+
+- institution: Ofqual
+  location: "Catania, IT"
+  year: Mar 2018
+  title: "Cambridge First Certificate B2"
+  certificate: ../files/CambridgeCertificateB2.pdf

@@ -1,0 +1,27 @@
+<div class="cv-left-date">{{ experience.year }} {{ experience.year-extra }}</div>
+<div><a href="{{ experience.institution-url }}"><b>{{ experience.institution }}</b></a>, {{ experience.location }}</div>
+<div><i>{{ experience.position }} <a href="{{ experience.group-url }}">{{ experience.group }}</a></i></div>
+{% if experience.supervisors %}
+<div class="cv-description">{% if experience.advisor == true%}Advisor: {% elsif experience.supervisors.size > 1 %}Supervisors:
+	{% else %}Supervisor: {% endif %}
+	{% for person in experience.supervisors %}
+	{% if forloop.last == false %}
+	{% include person.html person=person %},
+	{% else if forloop.last == true %}
+	{% include person.html person=person %}
+	{% endif %}
+	{% endfor %}
+</div>
+{% endif %}
+<div class="cv-description">{{ experience.description }}</div>
+
+<div class="pub-misc">
+	{% if cc.profile_page %}
+	<a href="{{ cc.profile_page }}">
+		<i class="fas fa-file-pdf" aria-hidden="true"></i> Profile page
+	</a>
+	{% endif %}
+
+</div>
+
+<div class="cv-spacer"></div>

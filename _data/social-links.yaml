@@ -1,0 +1,61 @@
+- id: email
+  description: "giovannispada17.gs@gmail.com"
+  color: "#515151"
+  class: "fas fa-envelope icon"
+  url: "mailto:giovannispada17.gs@gmail.com"
+  on-homepage: true
+  cv-group: 1
+
+- id: github
+  description: "@Giovo17"
+  color: "#6e5494"
+  class: "fab fa-github icon"
+  url: "https://github.com/Giovo17"
+  on-homepage: true
+  cv-group: 2
+
+- id: linkedin
+  description: "Giovanni Spadaro"
+  color: "#0077b5"
+  class: "fab fa-linkedin-in icon"
+  url: "https://www.linkedin.com/in/giovanni-spadaro17/"
+  on-homepage: true
+  cv-group: 2
+
+#- id: mastodon
+#  description: ""
+#  color: "#6364FF"
+#  class: "fab fa-mastodon icon"
+#  url: ""
+#  on-homepage: true
+
+- id: home
+  description: "giovannispadaro.it"
+  color: "#515151"
+  class: "fas fa-home icon"
+  url: "https://giovannispadaro.it"
+  on-homepage: false
+  cv-group: 1
+
+#- id: scholar
+#  description: "Google Scholar"
+#  color: "#515151"
+#  class: "fa fa-graduation-cap icon"
+#  url: "https://scholar.google.com/citations?user="
+#  on-homepage: true
+#  cv-group: 2
+
+- id: cv
+  description: CV PDF
+  color: "#ba2818"
+  class: "far fa-file-pdf icon"
+  url: "/files/cv.pdf"
+  on-homepage: false
+  cv-group: 1
+
+- id: cv-web
+  description: CV
+  color: "#515151"
+  class: "fa fa-address-card icon"
+  url: "/cv"
+  on-homepage: false

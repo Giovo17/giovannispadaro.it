@@ -1,0 +1,40 @@
+- name: OS
+  items:
+    - Mac OS X
+    - Ubuntu
+    - Arch Linux
+    - Unix Command Line
+    - Windows
+
+- name: Programming
+  items:
+    - Python
+    - C
+    - R
+    - Matlab
+    - Java
+
+- name: Python libraries
+  items:
+    - Numpy
+    - Pandas
+    - PyTorch
+    - Scikit-learn
+    - Manim
+
+- name: Web, Databases and Others
+  items: 
+    - HTML
+    - CSS
+    - JavaScript
+    - MySQL
+    - LaTeX
+    - Markdown
+    - Git
+
+- name: Graphics
+  items: 
+  - Matplotlib
+  - Seaborn
+  - ggplot2
+  - MS Powerpoint
