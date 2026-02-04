@@ -49,7 +49,7 @@
   description: CV PDF
   color: "#ba2818"
   class: "far fa-file-pdf icon"
-  url: "/files/cv.pdf"
+  url: "/files/cv_Giovanni_Spadaro.pdf"
   on-homepage: false
   cv-group: 1
 
