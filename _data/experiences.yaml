@@ -50,7 +50,8 @@ Technologies and Services: Azure, PostgreSQL, Dgraph, Python, TypeScript, LangCh
   position: Contract Trainer
   year: "Mar 2026 -"
   year-extra: "May 2026"
-  description: "Delivered corporate training on Machine Learning, Deep Learning, NLP, Transformers, and Generative AI applications. Covered LLM deployment, RAG architectures, prompt engineering and parameter-efficient finetuning techniques. Included practical sessions on GPU acceleration, finetuning and production AI workflows."
+  description: "Delivered corporate training on Machine Learning, Deep Learning, NLP, Transformers, and Generative AI applications. Covered LLM deployment, RAG architectures, prompt engineering and parameter-efficient finetuning techniques. Included practical sessions on GPU acceleration, finetuning and production AI workflows.
+Enhanced technical training and knowledge-transfer skills for corporate teams."
   institution-url: https://www.ubloom.it/
   type: teaching
 
