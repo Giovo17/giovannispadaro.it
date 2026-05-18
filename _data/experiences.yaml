@@ -23,6 +23,18 @@ Deployed a scalable, production-grade inference infrastructure on AWS, ensuring 
 Technologies and Services: AWS (mainly SageMaker, Lambda), Google Cloud, PostgreSQL, Pandas, Scikit-learn, XGBoost, OpenAI APIs, HuggingFace Spaces, Git."
   type: industry
 
+- institution: Proprietary R&D Venture
+  location: "Catania, IT"
+  position: Founder & Head of Development
+  year: "Sep 2024 -"
+  year-extra: "Present"
+  description: "Designing and implementing an autonomous AI agent system to automate businesses workflows, leveraging semantic retrieval and custom Graph RAG architectures to dynamically extract knowledge and construct ad-hoc graphs from unstructured data.
+Building a production-ready, full-stack interactive web application to serve as the client’s dashboard, enabling real-time agent monitoring, system configuration and workflow validation.
+Deploying a secure, scalable cloud infrastructure on Azure, utilizing a hybrid relational and graph-based data layer.
+
+Technologies and Services: Azure, PostgreSQL, Dgraph, Python, TypeScript, LangChain, Transformers, Pandas, Next.js, Git."
+  type: industry
+
 
 - institution: Superprof
   location: "Remote - Catania, IT"
