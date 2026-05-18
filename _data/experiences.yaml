@@ -48,7 +48,7 @@ Technologies and Services: AWS (mainly SageMaker, Lambda), Google Cloud, Postgre
   position: Automotive software engineer
   year: "Nov 2024 -"
   year-extra: "Present"
-  description: "I'm part of the Low Voltage division of the Formula SAE Catania team. My role is to manage the software workflow of my division and all IT related aspects of the whole team. I also guide the R&D of the car's telemetry system. Technologies: C, Git, ESP32, IEEE 802.3cg- 2019, CANbus, Graphana, OpenTelemetry, NextJS, Javascript."
+  description: "Manage Low‑Voltage division software workflow and all team IT. Lead R&D and implementation of the car telemetry platform: embedded data acquisition, CAN integration, telemetry transport, storage, and observability. Define data schemas, coding standards, and documentation; mentor team members. Technologies: C, Git, ESP32, IEEE 802.3cg-2019, CAN bus, Grafana, OpenTelemetry, Next.js, JavaScript."
   institution-url: https://www.fscracing.it/
   type: volunteering
 
