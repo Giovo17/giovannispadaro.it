@@ -1,6 +1,6 @@
 - degree: "MSc in Data Science"
   years: "Oct 2022 -"
-  years-extra: "Present"
+  years-extra: "Sep 2026"
   institution: University of Catania
   location: "Catania, IT"
   description:
@@ -14,8 +14,7 @@
   advisor: "Prof. Maurizio Palesi"
   location: "Catania, IT"
   thesis: "Predictive algorithms' application in medical diagnosis"
-  description: 
+  description:
     - "Final grade: 110/110. Areas of study: Computer Science, Machine Learning, Signal Processing, Electronics, Automation."
   institution-url: https://www.unict.it/
   thesis-repo: https://github.com/Giovo17/cardio-disease-analysis
-  

@@ -33,6 +33,15 @@ Technologies and Services: AWS (mainly SageMaker, Lambda), Google Cloud, Postgre
   profile_page: https://www.superprof.it/dottore-ingegneria-informatica-offre-lezioni-private-machine-learning-natural-language-processing-computer-vision-materie.html"
   type: teaching
 
+- institution: Ubloom
+  location: "Remote"
+  position: Contract Trainer
+  year: "Mar 2026 -"
+  year-extra: "May 2026"
+  description: "Delivered corporate training on Machine Learning, Deep Learning, NLP, Transformers, and Generative AI applications. Covered LLM deployment, RAG architectures, prompt engineering and parameter-efficient finetuning techniques. Included practical sessions on GPU acceleration, finetuning and production AI workflows."
+  institution-url: https://www.ubloom.it/
+  type: teaching
+
 
 - institution: UNICT FSC
   location: "Catania, IT"

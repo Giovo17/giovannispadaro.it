@@ -1,40 +1,19 @@
-- name: OS
-  items:
-    - Mac OS X
-    - Ubuntu
-    - Arch Linux
-    - Unix Command Line
-    - Windows
-
 - name: Programming
   items:
-    - Python
-    - C
-    - R
-    - Matlab
-    - Java
+    - Python (Proficient)
+    - SQL (Competent)
+    - C (Competent)
 
 - name: Python libraries
   items:
-    - Numpy
-    - Pandas
-    - PyTorch
-    - Scikit-learn
-    - Manim
+    - PyTorch, Transformers and Scikit-Learn (Proficient)
+    -  Numpy, Pandas (Skilled)
 
-- name: Web, Databases and Others
-  items: 
-    - HTML
-    - CSS
-    - JavaScript
-    - MySQL
-    - LaTeX
-    - Markdown
+- name: Others
+  items:
+    - Linux
     - Git
-
-- name: Graphics
-  items: 
-  - Matplotlib
-  - Seaborn
-  - ggplot2
-  - MS Powerpoint
+    - Teaching
+    - Project management
+    - Cloud and VM management
+    - LateX
