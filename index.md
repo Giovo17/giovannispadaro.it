@@ -37,7 +37,7 @@ title: Home
 	<!-- <h1>Site under construction</h1> -->
 	<!-- <div style="height: 1rem"></div> -->
 	<div>
-	Computer Engineer, master student in Data Science at University of Catania, private professor, ML research enthusiast and applied AI solutions lover.
+	Computer Engineer, master student in Data Science at University of Catania, academic tutor, ML research enthusiast and applied AI solutions lover.
 	</div>
 
 	<!-- <div style="height: 1rem"></div> -->
@@ -45,5 +45,3 @@ title: Home
 	<!-- <div style="height: 1rem"></div> -->
 
 </div>
-
-
