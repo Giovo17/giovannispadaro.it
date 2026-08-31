@@ -14,7 +14,7 @@
 
 - institution: Silk Shells Consulting
   location: "Remote"
-  position: Data Scientist
+  position: Machine Learning Engineer
   year: Jun - Jul 2024
   description: "Designed and implemented a multiclass classification system to evaluate candidate profiles, leveraging advanced feature engineering across both structured datasets and unstructured text sources.
 Built an interactive Gradio web application to demonstrate the system’s prototype and support rapid model validation and overall feedbacks.
